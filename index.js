@@ -2,7 +2,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const { Square, Circle, Triangle } = require("./Develop:lib/shapes");
 
-class Svg {
+class SVG {
     constructor() {
         this.textElement = '';
         this.shapeElement = '';
@@ -84,7 +84,7 @@ async function runTest() {
 
     userShape.setColor(userShapeColor);
 
-    const svg = new Svg();
+    const svg = new SVG();
     svg.setTextElement(userText, userTextColor);
     svg.setShapeElement(userShape);
     svgString = svg.createShape();
