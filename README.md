@@ -7,7 +7,7 @@ asked a serious of questions to define what they want their logo to look like, a
 This application heavily utilizes the inquirer and jest node modules, as well as fs to write new files from JavaScript input.
 
 ## Video Demonstration
-[Untitled_ Jan 25, 2024 10_54 PM.webm](https://github.com/jakeshmith/Logo-Generator/assets/153260507/d3182625-d369-48e9-938e-0c1d6787aa4f)
+[Untitled_ Jan 25, 2024 11_36 PM.webm](https://github.com/jakeshmith/Logo-Generator/assets/153260507/8c9a0d88-779c-4bd4-b07e-8d0e03e8fbb9)
 
 ## Link to Github Repository
 - Repo: https://github.com/jakeshmith/Logo-Generator
